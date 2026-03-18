@@ -310,8 +310,11 @@ export async function upsertProductAction(formData: FormData) {
       }
 
       revalidatePath("/");
+      revalidatePath("/ar");
       revalidatePath("/products");
+      revalidatePath("/ar/products");
       revalidatePath(`/products/${payload.slug}`);
+      revalidatePath(`/ar/products/${payload.slug}`);
       revalidatePath("/admin");
       redirect("/admin?status=updated");
     }
@@ -323,7 +326,10 @@ export async function upsertProductAction(formData: FormData) {
     }
 
     revalidatePath("/");
+    revalidatePath("/ar");
     revalidatePath("/products");
+    revalidatePath("/ar/products");
+    revalidatePath(`/ar/products/${payload.slug}`);
     revalidatePath("/admin");
     redirect("/admin?status=created");
   } catch (error) {
