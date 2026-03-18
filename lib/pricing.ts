@@ -18,7 +18,8 @@ export function calculatePriceFromKg(pricePerKg: number, grams: number) {
 }
 
 export function formatComputedPrice(value: number) {
-  return value % 1 === 0 ? `${value}` : value.toFixed(2);
+  const amount = value % 1 === 0 ? `${value}` : value.toFixed(2);
+  return `${amount} درهم`;
 }
 
 export function buildWeightLabel(option: WeightOption, customGrams?: number) {
