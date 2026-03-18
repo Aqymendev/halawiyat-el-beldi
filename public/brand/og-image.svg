@@ -1,0 +1,12 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#120D0C"/>
+  <circle cx="268" cy="114" r="180" fill="#6B2A24" fill-opacity="0.22"/>
+  <circle cx="1002" cy="92" r="134" fill="#C8A35A" fill-opacity="0.18"/>
+  <rect x="32" y="32" width="1136" height="566" rx="28" stroke="#C8A35A" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M238 132C296 184 366 208 366 302V520H110V302C110 208 180 184 238 132Z" fill="#F4EAD5" fill-opacity="0.07" stroke="#C8A35A" stroke-width="12"/>
+  <path d="M238 170C282 208 330 232 330 314V490H146V314C146 232 194 208 238 170Z" fill="#F4EAD5" fill-opacity="0.92" stroke="#6B2A24" stroke-width="8"/>
+  <text x="450" y="244" fill="#C8A35A" font-size="28" font-family="Arial, sans-serif" letter-spacing="7">HALAWIYAT EL BELDI</text>
+  <text x="450" y="336" fill="#F4EAD5" font-size="76" font-family="Georgia, serif">Premium Moroccan</text>
+  <text x="450" y="420" fill="#F4EAD5" font-size="76" font-family="Georgia, serif">Pastry Showcase</text>
+  <text x="450" y="490" fill="#ECDCB8" font-size="30" font-family="Arial, sans-serif">Handmade sweets for gifts, gatherings, Ramadan, Eid, and weddings.</text>
+</svg>

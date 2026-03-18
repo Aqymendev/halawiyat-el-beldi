@@ -1,0 +1,25 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#181111"/>
+  <rect x="54" y="54" width="1092" height="1292" rx="46" stroke="#C8A35A" stroke-opacity="0.22" stroke-width="2"/>
+  <text x="96" y="128" fill="#C8A35A" font-size="34" font-family="Arial, sans-serif" letter-spacing="6">HALAWIYAT EL BELDI</text>
+  <text x="96" y="208" fill="#F4EAD5" font-size="88" font-family="Georgia, serif">Chebakia</text>
+  <rect x="86" y="312" width="1028" height="930" rx="48" fill="#261814"/>
+  <g fill="#C98D3E">
+    <path d="M360 604C434 560 508 690 434 746C362 794 286 648 360 604Z"/>
+    <path d="M494 560C568 516 642 646 568 702C496 750 420 604 494 560Z"/>
+    <path d="M628 604C702 560 776 690 702 746C630 794 554 648 628 604Z"/>
+    <path d="M430 754C504 710 578 840 504 896C432 944 356 798 430 754Z"/>
+    <path d="M566 754C640 710 714 840 640 896C568 944 492 798 566 754Z"/>
+  </g>
+  <g stroke="#7B431B" stroke-width="18" stroke-linecap="round">
+    <path d="M334 684C392 612 434 612 462 678"/>
+    <path d="M468 640C526 568 568 568 596 634"/>
+    <path d="M602 684C660 612 702 612 730 678"/>
+    <path d="M404 834C462 762 504 762 532 828"/>
+    <path d="M540 834C598 762 640 762 668 828"/>
+  </g>
+  <circle cx="520" cy="1024" r="20" fill="#EAD5A0"/>
+  <circle cx="564" cy="990" r="20" fill="#EAD5A0"/>
+  <circle cx="608" cy="1032" r="20" fill="#EAD5A0"/>
+  <circle cx="652" cy="992" r="20" fill="#EAD5A0"/>
+</svg>

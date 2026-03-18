@@ -1,0 +1,29 @@
+<svg width="720" height="860" viewBox="0 0 720 860" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="720" height="860" rx="48" fill="#120D0C"/>
+  <rect x="34" y="34" width="652" height="792" rx="34" stroke="#C8A35A" stroke-opacity="0.28" stroke-width="2"/>
+  <path d="M360 96C433 161 520 192 520 306V663H200V306C200 192 287 161 360 96Z" fill="#F4EAD5" fill-opacity="0.06" stroke="#C8A35A" stroke-width="16"/>
+  <path d="M360 150C416 198 476 230 476 322V626H244V322C244 230 304 198 360 150Z" fill="#F4EAD5" fill-opacity="0.85" stroke="#6B2A24" stroke-width="10"/>
+  <path d="M360 188C406 227 446 257 446 334V596H274V334C274 257 314 227 360 188Z" fill="#120D0C" fill-opacity="0.06" stroke="#C8A35A" stroke-width="6"/>
+  <text x="360" y="355" text-anchor="middle" fill="#6B2A24" font-size="76" font-family="Georgia, serif" font-style="italic">halawiyat</text>
+  <text x="360" y="438" text-anchor="middle" fill="#6B2A24" font-size="70" font-family="Georgia, serif" font-style="italic">El</text>
+  <text x="360" y="532" text-anchor="middle" fill="#6B2A24" font-size="82" font-family="Georgia, serif" font-style="italic">beldi</text>
+  <g opacity="0.95">
+    <circle cx="282" cy="644" r="26" fill="#C89246"/>
+    <circle cx="286" cy="644" r="10" fill="#7A461E"/>
+    <circle cx="436" cy="645" r="26" fill="#C89246"/>
+    <circle cx="440" cy="645" r="10" fill="#7A461E"/>
+    <path d="M335 665C335 632 384 632 384 665C384 698 335 698 335 665Z" stroke="#C89246" stroke-width="16"/>
+    <path d="M210 647C226 625 256 625 270 649C254 663 224 663 210 647Z" fill="#C89246"/>
+    <path d="M468 649C486 627 518 627 534 652C516 666 484 665 468 649Z" fill="#C89246"/>
+  </g>
+  <path d="M150 706H570L525 774H195L150 706Z" fill="#6B2A24" stroke="#C8A35A" stroke-width="6"/>
+  <g stroke="#C8A35A" stroke-width="4">
+    <path d="M196 772L232 708"/>
+    <path d="M256 772L292 708"/>
+    <path d="M316 772L352 708"/>
+    <path d="M376 772L412 708"/>
+    <path d="M436 772L472 708"/>
+    <path d="M496 772L532 708"/>
+  </g>
+  <path d="M152 707H568" stroke="#F4EAD5" stroke-opacity="0.35" stroke-width="2"/>
+</svg>

@@ -1,0 +1,16 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#1A1210"/>
+  <rect x="48" y="48" width="1104" height="1304" rx="48" stroke="#C8A35A" stroke-opacity="0.24" stroke-width="2"/>
+  <text x="94" y="128" fill="#C8A35A" font-size="34" font-family="Arial, sans-serif" letter-spacing="6">HALAWIYAT EL BELDI</text>
+  <text x="94" y="206" fill="#F4EAD5" font-size="86" font-family="Georgia, serif">Kaab Lghzal</text>
+  <text x="94" y="264" fill="#E7D2AA" font-size="28" font-family="Arial, sans-serif">Almond crescent pastries with orange blossom</text>
+  <rect x="86" y="330" width="1028" height="892" rx="42" fill="#2B1C18"/>
+  <ellipse cx="430" cy="818" rx="210" ry="140" fill="#E2BA74"/>
+  <ellipse cx="774" cy="770" rx="234" ry="154" fill="#D5A65A"/>
+  <path d="M262 798C338 670 522 670 598 798C522 926 338 926 262 798Z" fill="#F2D89C"/>
+  <path d="M604 746C686 610 898 610 980 746C898 882 686 882 604 746Z" fill="#F5D38D"/>
+  <path d="M304 808C362 726 498 726 556 808" stroke="#7A4A22" stroke-width="18" stroke-linecap="round"/>
+  <path d="M646 758C708 672 876 672 938 758" stroke="#7A4A22" stroke-width="18" stroke-linecap="round"/>
+  <circle cx="918" cy="1020" r="86" fill="#C89246"/>
+  <circle cx="918" cy="1020" r="34" fill="#7C4B21"/>
+</svg>

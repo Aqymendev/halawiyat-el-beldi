@@ -1,0 +1,16 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#170F0D"/>
+  <text x="92" y="130" fill="#C8A35A" font-size="34" font-family="Arial, sans-serif" letter-spacing="6">HALAWIYAT EL BELDI</text>
+  <text x="92" y="210" fill="#F4EAD5" font-size="88" font-family="Georgia, serif">Almond Briwat</text>
+  <rect x="86" y="308" width="1028" height="952" rx="48" fill="#241815" stroke="#C8A35A" stroke-opacity="0.16" stroke-width="2"/>
+  <g fill="#D4A057">
+    <path d="M360 540L560 888H160L360 540Z"/>
+    <path d="M734 506L956 892H512L734 506Z"/>
+    <path d="M548 736L748 1098H348L548 736Z"/>
+  </g>
+  <g stroke="#7A451E" stroke-width="18" stroke-linejoin="round">
+    <path d="M360 608L500 862H220L360 608Z"/>
+    <path d="M734 574L886 852H582L734 574Z"/>
+    <path d="M548 804L680 1040H416L548 804Z"/>
+  </g>
+</svg>

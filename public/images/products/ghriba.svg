@@ -1,0 +1,25 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#150F0E"/>
+  <text x="96" y="130" fill="#C8A35A" font-size="34" font-family="Arial, sans-serif" letter-spacing="6">HALAWIYAT EL BELDI</text>
+  <text x="96" y="210" fill="#F4EAD5" font-size="88" font-family="Georgia, serif">Ghriba</text>
+  <rect x="86" y="308" width="1028" height="948" rx="46" fill="#231714" stroke="#C8A35A" stroke-opacity="0.16" stroke-width="2"/>
+  <g fill="#D1A76A">
+    <circle cx="376" cy="660" r="120"/>
+    <circle cx="612" cy="694" r="136"/>
+    <circle cx="842" cy="638" r="112"/>
+    <circle cx="494" cy="922" r="112"/>
+    <circle cx="760" cy="954" r="126"/>
+  </g>
+  <g fill="#9B6C3E">
+    <circle cx="342" cy="624" r="12"/>
+    <circle cx="404" cy="696" r="10"/>
+    <circle cx="574" cy="640" r="16"/>
+    <circle cx="648" cy="746" r="14"/>
+    <circle cx="812" cy="604" r="14"/>
+    <circle cx="888" cy="670" r="12"/>
+    <circle cx="470" cy="888" r="14"/>
+    <circle cx="524" cy="950" r="12"/>
+    <circle cx="724" cy="912" r="16"/>
+    <circle cx="796" cy="992" r="12"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#140E0D"/>
+  <text x="92" y="130" fill="#C8A35A" font-size="34" font-family="Arial, sans-serif" letter-spacing="6">HALAWIYAT EL BELDI</text>
+  <text x="92" y="210" fill="#F4EAD5" font-size="88" font-family="Georgia, serif">Sellou</text>
+  <rect x="88" y="322" width="1024" height="938" rx="48" fill="#221714" stroke="#C8A35A" stroke-opacity="0.16" stroke-width="2"/>
+  <rect x="358" y="458" width="476" height="560" rx="72" fill="#A36E3B"/>
+  <rect x="398" y="400" width="396" height="108" rx="54" fill="#EBD29D"/>
+  <path d="M412 652C482 618 714 618 780 652V892C718 926 478 926 412 892V652Z" fill="#C58F54"/>
+  <circle cx="520" cy="742" r="14" fill="#EAD19B"/>
+  <circle cx="604" cy="718" r="10" fill="#EAD19B"/>
+  <circle cx="670" cy="786" r="12" fill="#EAD19B"/>
+  <circle cx="732" cy="734" r="10" fill="#EAD19B"/>
+</svg>

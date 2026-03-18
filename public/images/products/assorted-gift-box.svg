@@ -1,0 +1,15 @@
+<svg width="1200" height="1400" viewBox="0 0 1200 1400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1400" fill="#130D0C"/>
+  <text x="92" y="130" fill="#C8A35A" font-size="34" font-family="Arial, sans-serif" letter-spacing="6">HALAWIYAT EL BELDI</text>
+  <text x="92" y="210" fill="#F4EAD5" font-size="82" font-family="Georgia, serif">Assorted Gift Box</text>
+  <rect x="86" y="308" width="1028" height="958" rx="48" fill="#211613" stroke="#C8A35A" stroke-opacity="0.16" stroke-width="2"/>
+  <rect x="236" y="468" width="728" height="492" rx="42" fill="#5B211C" stroke="#C8A35A" stroke-width="10"/>
+  <rect x="280" y="512" width="640" height="404" rx="30" fill="#F4EAD5"/>
+  <circle cx="418" cy="646" r="72" fill="#D0A15F"/>
+  <path d="M566 592L668 774H464L566 592Z" fill="#D8A35D"/>
+  <path d="M794 642C842 560 968 560 1016 642C968 724 842 724 794 642Z" fill="#F3D69B"/>
+  <circle cx="432" cy="802" r="64" fill="#C89246"/>
+  <circle cx="432" cy="802" r="24" fill="#7C4B21"/>
+  <path d="M582 818C582 752 680 752 680 818C680 884 582 884 582 818Z" stroke="#C89246" stroke-width="16"/>
+  <path d="M780 798L868 870L736 938L780 798Z" fill="#D6A15A"/>
+</svg>

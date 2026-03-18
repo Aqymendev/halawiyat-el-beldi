@@ -1,0 +1,25 @@
+.moroccan-divider {
+  position: relative;
+  height: 18px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.moroccan-divider::before,
+.moroccan-divider::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(45deg, transparent 40%, rgba(200, 163, 90, 0.9) 40%, rgba(200, 163, 90, 0.9) 60%, transparent 60%) 0 0 / 28px 28px,
+    linear-gradient(-45deg, transparent 40%, rgba(244, 234, 213, 0.55) 40%, rgba(244, 234, 213, 0.55) 60%, transparent 60%) 14px 0 / 28px 28px;
+  opacity: 0.65;
+}
+
+.arch-outline {
+  clip-path: path("M 50 0 C 72 18, 88 34, 88 58 L 88 100 L 12 100 L 12 58 C 12 34, 28 18, 50 0 Z");
+}
+
+.arch-card {
+  border-radius: 999px 999px 24px 24px;
+}
